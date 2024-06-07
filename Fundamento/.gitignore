@@ -1,0 +1,5 @@
+node_modules
+# o asterisco faz com q todos os arquivos dentro da pasta db sejam ignorados 
+db/*.db 
+.env
+build
